@@ -1,0 +1,33 @@
+@media(max-width: 575px){
+	.menu{
+		position: static;
+	}
+	.menu a{
+		width: 100%;
+		padding: 20px 0;
+	}
+	.header{
+		margin: 0;
+		padding: 100px 0;
+		background-position: center;
+		background-size: cover;
+		min-height: 300px;
+	}
+	.tariff{
+		width: 95%;
+	}
+	#about-company img{
+		width: 100%;
+		float: none;
+		margin: 0;
+	}
+	#about-company p{
+		padding-left: 10px;
+		padding-right: 10px;
+	}
+	.member{
+		width: 95%;
+		margin: 20px 0;
+		box-sizing: border-box;
+	}
+}
